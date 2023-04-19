@@ -1,6 +1,6 @@
 {
-  "name": "new_p",
-  "version": "1.0.0",
+  "name": "node-clean-architecture",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
