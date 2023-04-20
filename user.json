@@ -1,0 +1,7 @@
+{
+    "name": "Mairon",
+    "email": "mmairon@gmail.com",
+    "password": "123",
+    "passwordConfirmation": "123",
+    "role":"ADMIN_ROLE"
+}
